@@ -1,6 +1,6 @@
 {
   "name": "batch-consuming",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package allows you to consume any end-point rest service",
   "main": "lib/index.js",
   "scripts": {
